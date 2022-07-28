@@ -42,7 +42,4 @@ Playable WebGL uploads of my games can be found in my [simmer.io profile](https:
 [Unity GameJam 2020 Submission](https://simmer.io/@dominicfrei/unity-gamejam-2020-submission)  
 
 # Contact
-You can contact me on any of the following ways:
-- business.dominic.frei@gmail.com
-- Discord: dodoTV42#0383
-- https://www.linkedin.com/in/dominicfrei/
+A list of all contact options: https://linktr.ee/dominicfrei
