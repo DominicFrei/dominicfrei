@@ -24,7 +24,7 @@ While still being active as an iOS developer I am constantly getting more into U
 Therefore, I am available in both areas and would describe myself as a senior iOS and junior Unity developer.
 
 # Resume
-You can find me resume in this repository as a [Word](https://github.com/DominicFrei/aboutme/raw/master/Dominic_CV_public.docx) and [PDF](https://github.com/DominicFrei/aboutme/raw/master/Dominic_CV_public.pdf) document.  
+You can find my resume in this repository as a [Word](https://github.com/DominicFrei/aboutme/raw/master/Dominic_CV_public.docx) and [PDF](https://github.com/DominicFrei/aboutme/raw/master/Dominic_CV_public.pdf) document.  
 I am happy to provide contact details to all my references on request.
 
 # Portfolio
