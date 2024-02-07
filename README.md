@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # About me
 In my career, I've done a bit of everything, wearing many hats along the way. It's kind of like being a generalist and a firefighter rolled into one.
 
