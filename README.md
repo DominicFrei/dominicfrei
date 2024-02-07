@@ -1,45 +1,18 @@
 ### Hi there 👋
 
-<!--
-**DominicFrei/dominicfrei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # About me
-The quality of work is mainly influenced by three factors: experience, passion, and repetition.
+In my career, I've done a bit of everything, wearing many hats along the way. It's kind of like being a generalist and a firefighter rolled into one.
 
-For the past 10+ years I worked mainly on iOS apps. Ever since my youth I was interested in games though.  
-While still being active as an iOS developer I am constantly getting more into Unity development.
+I've been a Software Developer, Project Manager, Product Owner, Scrum Master, Developer Advocate, Content Creator, Speaker, Author, and Teacher. From freelancing to owning my own business and managing teams, I've been around the block.
 
-Therefore, I am available in both areas and would describe myself as a senior iOS and junior Unity developer.
+I've worked with lots of different languages, tools, platforms, and technologies, so I've pretty much seen it all. This makes me pretty flexible and ready for anything. I'm always up for new challenges, especially the ones that are a bit out of the ordinary.
 
-# Resume
-You can find my resume in this repository as a [Word](https://github.com/DominicFrei/aboutme/raw/master/Dominic_CV_public.docx) and [PDF](https://github.com/DominicFrei/aboutme/raw/master/Dominic_CV_public.pdf) document.  
-I am happy to provide contact details to all my references on request.
+Jack of all trades you might think? Maybe.
+But there is one thing all those buzzwords got in common: my love for software and code!
 
-# Portfolio
-You can find examples of Unity3D work I've done here in [my Github profile](https://github.com/DominicFrei?tab=repositories):  
-[Galaxy Shooter](https://github.com/DominicFrei/galaxyshooter)  
-[Remake of the 1991 Nibbles on MS-DOS](https://github.com/DominicFrei/nibbles)  
-[Cubes](https://github.com/DominicFrei/Cubes)  
-[Unity GameJam 2020 Submission](https://github.com/DominicFrei/UnityGameJam2020)  
-[Collection of examples for Unity functionality](https://github.com/DominicFrei/UnityExamples)
-
-Playable WebGL uploads of my games can be found in my [simmer.io profile](https://simmer.io/@dominicfrei):  
-[Galaxy Shooter](https://simmer.io/@dominicfrei/galaxy-shooter)  
-[Remake of the 1991 Nibbles on MS-DOS](https://simmer.io/@dominicfrei/nibbles-2020)  
-[Cubes](https://simmer.io/@dominicfrei/cubes)  
-[Unity GameJam 2020 Submission](https://simmer.io/@dominicfrei/unity-gamejam-2020-submission)  
+# Resume / CV
+These days I basically only use LinkedIn as my CV: https://www.linkedin.com/in/dominicfrei/
+I'm happy to provide other optiions (PDF, etc.) if necessary though. :)
 
 # Contact
 A list of all contact options: https://linktr.ee/dominicfrei
