@@ -1,5 +1,8 @@
 # About me
-In my career, I've done a bit of everything, wearing many hats along the way. It's kind of like being a generalist and a firefighter rolled into one.
+Computers, code and games have always been my big passion.
+From when I got my first PC in the 90s, studying Computer Sciences in the 2000s and throughout my whole career.
+
+I've done a bit of everything, wearing many hats along the way. It's kind of like being a generalist and a firefighter rolled into one.
 
 I've been a Software Developer, Project Manager, Product Owner, Scrum Master, Developer Advocate, Content Creator, Speaker, Author, and Teacher. From freelancing to owning my own business and managing teams, I've been around the block.
 
